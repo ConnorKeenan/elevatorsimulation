@@ -10,7 +10,7 @@
  */
 public class Controller
 {
-    private UpList upList;
+    private UpList upList; //very nice
     private DownList downList;
     private SinkList sinkList;
     private InCarList incarList;
